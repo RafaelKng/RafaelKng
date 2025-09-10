@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Olá! Eu sou o Fael</h1>
 
-<p align="center">🎮 Gamer | 🧪 QA | 💻 Estudante de Ciência da Computação | 🤞Futuro Dev</p>
+<p align="center">🎮 Gamer | 🧪 QA | 💻 Ciêntista da Computação | 🤞Futuro Dev</p>
 
 ---
 
