@@ -12,7 +12,7 @@
 - 🔍 Atualmente atuando como **QA**, garantindo que nada vá pro ar quebrado.
 - 📚 Estudando **Ciência da Computação** com foco em backend e automações.
 - 👨‍💻 Aprendendo **Node.js**, **JavaScript**, **SQL**, testes e APIs.
-- 🕹️ Gamer raiz — se não tô codando, tô no **Valorant**, **Elden Ring** ou testando jogo novo.
+- 🕹️ Gamer raiz — se não tô codando, tô no **Valorant**, **Minecraft** ou testando jogo novo.
 - 💡 Curioso, direto, e sempre em busca de melhorar 1% por dia.
 
 ---
