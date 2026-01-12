@@ -14,6 +14,8 @@
 - 👨‍💻 Aprendendo **Node.js**, **JavaScript**, **SQL**, testes e APIs.
 - 🕹️ Gamer raiz — se não tô codando, tô no **Valorant**, **Minecraft** ou testando jogo novo.
 - 💡 Curioso, direto, e sempre em busca de melhorar 1% por dia.
+- 📃 Veja meu portfólio: [Rafael Silva](https://rafaelkng.vercel.app/)
+
 
 ---
 
